@@ -1,0 +1,2 @@
+# item_modifier-set_damage
+item_modifierの1項目であるset_damageに関するサンプルになります。
