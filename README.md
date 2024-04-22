@@ -25,4 +25,4 @@ item_modifierの1項目であるset_damageに関するサンプルになりま�
 /item modify entity @s weapon.mainhand sample:set_damage_heal
 ```
 
-を実行した場合は、手元のアイテムの最大耐久値の半分だけ、耐久値を回復させます。
+を実行した場合は、手元のアイテムの最大耐久値の1/4だけ、耐久値を回復させます。
