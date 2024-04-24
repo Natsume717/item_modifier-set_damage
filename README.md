@@ -1,8 +1,7 @@
 # item_modifier-set_damage
 item_modifierの1項目であるset_damageに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_damageで耐久値を操作する【item_modifier】](https://natsumake.com/item_modifier-set_damage/)』を参考にしてください。
 
 <h3>概要</h3>
 アイテムの耐久値を削る・回復させることが可能です。
